@@ -5,8 +5,8 @@ global.owner = [
 ]
 
 global.numberbot = '595975655723'
-global.nameowner = 'Zam'
-global.nomorown = '5214434703586'
+global.nameowner = 'Maicol.xz'
+global.nomorown = '595976126756'
 
 global.APIs = {}
 global.APIKeys = {}
