@@ -1,10 +1,10 @@
 global.owner = [
-['5214434703586'],
+['595975655723'],
 ['573147616444'], 
 ['5492266613038']
 ]
 
-global.numberbot = '5215534019278'
+global.numberbot = '595975655723'
 global.nameowner = 'Zam'
 global.nomorown = '5214434703586'
 
@@ -20,7 +20,7 @@ global.sgc = 'https://chat.whatsapp.com'
 global.isPairing = false
 global.sig = 'https://www.instagram.com/zam._.bl'
 global.giturl = 'https://github.com/AzamiJs/CuriosityBot-MD'
-global.swa = 'wa.me/5214434703586'
+global.swa = 'wa.me/595975655723'
 global.version = '1.0'
 global.access_denied = 'https://qu.ax/lFTW.jpeg'
 
